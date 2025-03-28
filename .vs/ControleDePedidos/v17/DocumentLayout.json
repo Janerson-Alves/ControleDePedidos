@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|e:\\cursos\\.net alura\\2 - c# e orienta\u00E7\u00E3o a objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - c# trabalhando com arrays e cole\u00E7\u00F5es\\exercicios\\controledepedidos\\controledepedidos\\models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|solutionrelative:controledepedidos\\models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|e:\\cursos\\.net alura\\2 - c# e orienta\u00E7\u00E3o a objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - c# trabalhando com arrays e cole\u00E7\u00F5es\\exercicios\\controledepedidos\\controledepedidos\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|solutionrelative:controledepedidos\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|e:\\cursos\\.net alura\\2 - c# e orienta\u00E7\u00E3o a objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - c# trabalhando com arrays e cole\u00E7\u00F5es\\exercicios\\controledepedidos\\controledepedidos\\models\\prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|solutionrelative:controledepedidos\\models\\prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|e:\\cursos\\.net alura\\2 - c# e orienta\u00E7\u00E3o a objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - c# trabalhando com arrays e cole\u00E7\u00F5es\\exercicios\\controledepedidos\\controledepedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D196AE-B1E7-4B8B-89DE-D48BC8218033}|ControleDePedidos\\ControleDePedidos.csproj|solutionrelative:controledepedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Models\\Restaurante.cs",
+              "RelativeDocumentMoniker": "ControleDePedidos\\Models\\Restaurante.cs",
+              "ToolTip": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Models\\Restaurante.cs*",
+              "RelativeToolTip": "ControleDePedidos\\Models\\Restaurante.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:13:28.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "ControleDePedidos\\Models\\Pedido.cs",
+              "ToolTip": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Models\\Pedido.cs",
+              "RelativeToolTip": "ControleDePedidos\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:11:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prato.cs",
+              "DocumentMoniker": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Models\\Prato.cs",
+              "RelativeDocumentMoniker": "ControleDePedidos\\Models\\Prato.cs",
+              "ToolTip": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Models\\Prato.cs",
+              "RelativeToolTip": "ControleDePedidos\\Models\\Prato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:10:58.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDePedidos\\Program.cs",
+              "ToolTip": "E:\\Cursos\\.Net Alura\\2 - C# e Orienta\u00E7\u00E3o a Objetos cole\u00E7\u00F5es, arquivos e bibliotecas\\1 - C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Exercicios\\ControleDePedidos\\ControleDePedidos\\Program.cs",
+              "RelativeToolTip": "ControleDePedidos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:08:53.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
